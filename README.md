@@ -29,7 +29,7 @@
 - 🎓 Systems Engineering student at the [National University of Costa Rica](https://www.una.ac.cr/)
 - 🏡 From **Guanacaste, Costa Rica**
 - 🎨 Passionate about **Frontend Development**
-- 🛠 Designing, building and debugging delightful experiences
+- 🛠  Designing, building and debugging delightful experiences
 - 📫 Reach me at: **valeriafernandez1715@gmail.com**
 
 ---
@@ -81,21 +81,3 @@
 <br><br><br><br><br>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ValeeFernandez&theme=algolia&row=1&column=7&margin-w=5&margin-h=15&no-bg=true" width="100%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValeeFernandez&show_icons=true&theme=candy&title_color=ff69b4&icon_color=ff69b4" alt="Vale's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeeFernandez&layout=compact&theme=candy&title_color=ff69b4" alt="Top Languages" />
-</p>
-
----
-
