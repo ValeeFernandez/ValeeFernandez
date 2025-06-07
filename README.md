@@ -48,7 +48,7 @@
 <tr>
   <td width="25%" align="center">
     <a href="https://github.com/ValeeFernandez/Vale-s-Closet" target="blank">
-      <img align="center" width="100%" src="https://github.com/ValeeFernandez/ValeeFernandez/tree/main/assets" alt="SDGI_doc" />
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/ValeeFernandez/ValeeFernandez/main/assets/closet.png" alt="SDGI_doc" />
     </a>
     <p>
       <a href="https://github.com/ValeeFernandez/Vale-s-Closet" target="blank">
