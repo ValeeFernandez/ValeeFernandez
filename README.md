@@ -78,7 +78,7 @@
 
    <td width="25%" align="center">
     <a href="https://github.com/Ogiwara-unu/OkaryMsc" target="blank">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/ValeeFernandez/ValeeFernandez/main/assets/okarys.png" alt="PokeProject" />
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/ValeeFernandez/ValeeFernandez/main/assets/okarys.png" alt="Okarys Music" />
     </a>
     <p>
       <a href="https://github.com/Ogiwara-unu/OkaryMsc" target="blank">
