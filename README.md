@@ -67,10 +67,21 @@
 
   <td width="25%" align="center">
     <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/Ogiwara-unu/Ogiwara-unu/main/assets/pokeProject.png" alt="PokeProject" />
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/ValeeFernandez/ValeeFernandez/main/assets/PokeLab.png" alt="PokeProject" />
     </a>
     <p>
       <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank">
+        <img src="https://img.shields.io/badge/GitHub Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
+  </td>
+
+   <td width="25%" align="center">
+    <a href="https://github.com/Ogiwara-unu/OkaryMsc" target="blank">
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/ValeeFernandez/ValeeFernandez/main/assets/okarys.png" alt="PokeProject" />
+    </a>
+    <p>
+      <a href="https://github.com/Ogiwara-unu/OkaryMsc" target="blank">
         <img src="https://img.shields.io/badge/GitHub Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </p>
